@@ -1,0 +1,151 @@
+commit c7eea373d3baf692bcf98534745bc02d42fc7456
+Merge: c219a2d 75e959e
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Sat Aug 13 20:49:00 2022 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+commit c219a2d97f1fe3cb2060671ebdb585440a4106b2
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Sat Aug 13 20:48:19 2022 +0200
+
+    Final commit
+
+commit 75e959e68ddd738f3a80ff5753763e9eb6e8237d
+Author: Lulamile99 <101283278+Lulamile99@users.noreply.github.com>
+Date:   Wed Aug 10 20:43:09 2022 +0200
+
+    Create README.md
+
+commit 5c25572655e9ef13a7ec00b16d45b3d1595062af
+Author: Lulamile99 <101283278+Lulamile99@users.noreply.github.com>
+Date:   Wed Aug 10 20:41:43 2022 +0200
+
+    Update README.md
+
+commit f11a48402df937db89960e7ea91693b3d1812f3a
+Author: Lulamile99 <101283278+Lulamile99@users.noreply.github.com>
+Date:   Wed Aug 10 20:41:08 2022 +0200
+
+    Update README.md
+
+commit 81bf7d06558da5ec963d1451d6195c1b7a751acd
+Author: Lulamile99 <101283278+Lulamile99@users.noreply.github.com>
+Date:   Wed Aug 10 20:38:26 2022 +0200
+
+    Create README.md
+
+commit d56e794c1c2472f927739f65921a48c52317f875
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Tue Aug 9 21:54:36 2022 +0200
+
+    Made java docs for all four classes
+
+commit 629c32dc2f4d162fd962fc6d8a2353680b73b191
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Tue Aug 9 19:47:58 2022 +0200
+
+    Tried to increase my progams efficiency
+
+commit 2a8d5f1aca7aa9294f3e61a39b22e676f00383e4
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Tue Aug 9 04:44:37 2022 +0200
+
+    Added MedianFilterParallel Class
+
+commit c373981397ca3ce4922ffb640454d8a2c6287253
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Tue Aug 9 04:18:04 2022 +0200
+
+    Added applyMedianFilter method in MedianFilterSerial
+
+commit 8aed0106bd26d7749321fcdd0e98c9b9e1961819
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Tue Aug 9 02:42:44 2022 +0200
+
+    Added Correct timer in MedianFilterSerial
+
+commit ac9ce1ffea2a4e47b645c273f11ce24bf4c71a88
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Tue Aug 9 02:37:51 2022 +0200
+
+    Added Inner Class in MeanFilterParallel Class
+
+commit b772a8c9e28654d69fb78d9826224ab290e8ed9e
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Mon Aug 8 20:17:11 2022 +0200
+
+    Added applyMeanFilter method to perform mean filter to an image
+
+commit 8f7ff25bc206020f29c7cfc2b50f91d059558fae
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Fri Aug 5 01:50:17 2022 +0200
+
+    Changed the median filter method
+
+commit a7e5e397c06f13f79bdb34f4aca8712a7add4283
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Thu Aug 4 02:33:02 2022 +0200
+
+    Fixed Coordinates out of bound error in MedianFilterSerial class
+
+commit 8963888a53c5e5c8338c2cabad852cf977a078b4
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Thu Aug 4 01:26:31 2022 +0200
+
+    MeanFilterSerial Class
+
+commit 1b0b2d1de2fbd8d95af5f93099097989d2fd87a4
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Mon Aug 1 21:35:06 2022 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+commit cee0444d57ca8ecd2a49333537b0fada4353b2db
+Merge: c9305b9 9a15cc3
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Mon Aug 1 21:22:54 2022 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+commit c9305b96b6c0185e6f721321cf797b1d833b329b
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Mon Aug 1 21:22:16 2022 +0200
+
+    Made set image method
+
+commit 9a15cc3bf78639d5e3d96b929e214a83dd1758e6
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Mon Aug 1 21:22:16 2022 +0200
+
+    Made set image method
+
+commit 5b6afd1bd74cd57fef2075d24c8fbbcb4f12f424
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Mon Aug 1 21:21:11 2022 +0200
+
+    Added a count var
+
+commit b4fd94f9b56754900d3ddbb36a0087b93873d57e
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Mon Aug 1 20:27:29 2022 +0200
+
+    Made set image method
+
+commit df930031a639e53f1753f62a1d8468c5d35c0271
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Mon Aug 1 20:26:19 2022 +0200
+
+    Implementing medianFilter method
+
+commit 43861c6f0bd363fab456cf80a92b1930584de713
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Mon Aug 1 19:05:29 2022 +0200
+
+    Made set image method
+
+commit 0083b334250331f6d8f874719c7bf8b4a433ad0b
+Author: Lulamile Plati <lulabenni45@gmail.com>
+Date:   Mon Aug 1 19:03:45 2022 +0200
+
+    Added
